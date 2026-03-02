@@ -20,3 +20,27 @@ If you are developing a production application, we recommend using TypeScript wi
 Macro index calculation and ML upgrade flow are documented here:
 
 - `docs/macro-index.md`
+
+
+Rhythm 실행 가이드
+
+vs 코드 터미널 권한 확장
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+
+
+Node.js 설치
+node -v
+npm -v
+npx -v
+버전 확인
+
+firebase 설치
+npm install firebase
+
+tailwind CSS 설치
+npm install tailwindcss @tailwindcss/vite
+
+애니메이션 모션 설치
+npm i react-router-dom framer-motion
+
+npm i clsx tailwind-merge
